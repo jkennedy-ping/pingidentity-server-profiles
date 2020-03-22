@@ -1,0 +1,4 @@
+dsconfig set-connection-handler-prop --handler-name "LDAPS Connection Handler" --set listen-address:127.0.0.1
+dsconfig set-connection-handler-prop --handler-name "LDAP Connection Handler" --set listen-address:127.0.0.1
+dsconfig set-connection-handler-prop --handler-name "HTTP Connection Handler" --set listen-address:127.0.0.1
+dsconfig set-connection-handler-prop --handler-name "HTTPS Connection Handler" --set listen-address:127.0.0.1
